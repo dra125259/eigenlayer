@@ -1,12 +1,12 @@
 operator:
-    address: 0x4C158C2157e1F859AdE50C264F3F1B4dC1f57923
-    earnings_receiver_address: 0x4C158C2157e1F859AdE50C264F3F1B4dC1f57923
+    address: 0xf554D858C874edb4A8C9180cE99c679683AA1Ab2
+    earnings_receiver_address: 0xf554D858C874edb4A8C9180cE99c679683AA1Ab2
     delegation_approver_address: "0x0000000000000000000000000000000000000000"
     staker_opt_out_window_blocks: 0
-    metadata_url: "https://raw.githubusercontent.com/john839361/eigenlayer/main/operator/config/metadata.json"
+    metadata_url: "https://raw.githubusercontent.com/dra125259/eigenlayer/main/operator/config/metadata.json"
 el_delegation_manager_address: 0xA44151489861Fe9e3055d95adC98FbD462B948e7
 eth_rpc_url: https://ethereum-holesky-rpc.publicnode.com
-private_key_store_path: /root/.eigenlayer/operator_keys/mykey.ecdsa.key.json
+private_key_store_path: /root/.eigenlayer/operator_keys/everest.ecdsa.key.json
 signer_type: local_keystore
 chain_id: 17000
 fireblocks:
